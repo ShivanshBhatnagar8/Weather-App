@@ -5,6 +5,9 @@
 }
 
 @media (max-width: 72em) {
+   body{
+    min-height: 100vh;
+  }
   nav {
     width: 30%;
   }
@@ -19,9 +22,7 @@
   html {
     font-size: 50%;
   }
-  body{
-    min-height: 100%;
-  }
+ 
 }
 @media (max-width: 50em) {
   .other-info {
