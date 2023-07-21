@@ -5,9 +5,7 @@
 }
 
 @media (max-width: 72em) {
-   body{
-    min-height: 100vh;
-  }
+  
   nav {
     width: 30%;
   }
