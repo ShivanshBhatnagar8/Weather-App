@@ -14,6 +14,10 @@ body {
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   background-image: url(../img/landscape.jpg);
   background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
  color: #f9f5f5;
 }
