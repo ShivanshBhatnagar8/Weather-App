@@ -5,6 +5,7 @@
 }
 
 @media (max-width: 72em) {
+  
   nav {
     width: 30%;
   }
@@ -19,6 +20,7 @@
   html {
     font-size: 50%;
   }
+ 
 }
 @media (max-width: 50em) {
   .other-info {
