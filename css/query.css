@@ -19,6 +19,9 @@
   html {
     font-size: 50%;
   }
+  body{
+    min-height: 100%;
+  }
 }
 @media (max-width: 50em) {
   .other-info {
