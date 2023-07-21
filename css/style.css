@@ -13,9 +13,6 @@ body {
   font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   background-image: url(../img/landscape.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
   color: #f9f5f5;
 }
 img {
